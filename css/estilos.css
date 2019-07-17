@@ -135,7 +135,7 @@
   background: pink;
 }
 
-span {
+.close span {
   margin-left: 250px;
   color: red;
 }
