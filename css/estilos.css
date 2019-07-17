@@ -135,7 +135,7 @@
   background: pink;
 }
 
-.close span {
+.modal-content .close span {
   margin-left: 250px;
   color: red;
 }
